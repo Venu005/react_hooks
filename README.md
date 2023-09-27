@@ -1,3 +1,6 @@
+###
+  .gitigonre and other necessary files are intentionally not included as I feel not needed for this repo
+
 ## react_Concepts
 
  Understanding react concepts buildingdifferent projects
